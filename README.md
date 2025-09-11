@@ -1,4 +1,4 @@
-# 11401_CS203A
+# CS203A – Data Structures
 
 ## Course Information
 - **Course Title:** Data Structures
