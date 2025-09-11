@@ -22,3 +22,4 @@
 - **student ID:** s1131515
 
 ## Repository description
+This repository will document my learning journey in this course and how I overcome various challenges, making it easier to review and reflect on later.
